@@ -1,10 +1,22 @@
 const ModelsSeq = require('./modelSequelize.js');
 
-module.exports = {
-    getUsers,
-    getComments,
-    getCommentsForUser
+getUsers = () => {
+
+}
+
+getComments = () => {
+
+}
+
+getCommentsForUser = () => {
+
 }
 
 
-  
+module.exports = {
+  getUsers,
+  getComments,
+  getCommentsForUser
+}
+
+
