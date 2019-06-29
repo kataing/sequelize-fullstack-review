@@ -9,9 +9,9 @@ Fullstack review with mysql
 
 ### Exercise 2
 
-* Create dbHelper functions to users from Users Table
-* Create dbHelper functions to comments from Comments Table
-* Tested it on postman to see what is happening
+* [x] Create dbHelper functions to users from Users Table
+* [x] Create dbHelper functions to comments from Comments Table
+* [x] Tested it on postman to see what is happening
 
 ### Exercise 3
 * Create the server request calls in the index.js to grab data from the database
