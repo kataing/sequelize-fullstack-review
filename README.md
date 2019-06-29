@@ -3,9 +3,9 @@ Fullstack review with mysql
 
 ### Exercise 1
 
-* npm install
-* npm run build
-* Setup the mysql database and seed the database with data from seed.js
+* [x] npm install
+* [x] npm run build -->[server-dev]
+* [x] Setup the mysql database and seed the database with data from seed.js
 
 ### Exercise 2
 
