@@ -7,7 +7,7 @@ import CommentsList from './components/CommentsList.jsx';
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { 
+    this.state = {
       comments: [{
         "id": 0,
         "content": "Hi Charlie! Wassup?",
@@ -63,7 +63,7 @@ class App extends React.Component {
 
   }
 
-  componentDidMount(){
+  componentDidMount() {
     this.fetchData();
   }
 
@@ -71,11 +71,11 @@ class App extends React.Component {
 
   }
 
-  render () {
+  render() {
     return (<div className="main">
       <div>
         <h2>List of Users:</h2>
-        <select>  
+        <select>
           <option>Select a User</option>
           <option>John</option>
           <option>Adam</option>
@@ -84,7 +84,7 @@ class App extends React.Component {
           <option>Kate</option>
         </select>
       </div>
-      <CommentsList comments={this.state.comments}/>
+      <CommentsList comments={this.state.comments} />
     </div>)
   }
 }
