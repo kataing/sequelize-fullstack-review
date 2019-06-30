@@ -18,13 +18,13 @@ Fullstack review with mysql
 
 ### Exercise 4
 
-* Conditionally render all the users into the dropdown select using axios or jquery for your request
-* Conditionally render all the comments into the list component using axios or jquery for your request
+* [x] Conditionally render all the users into the dropdown select using axios or jquery for your request
+* [x] Conditionally render all the comments into the list component using axios or jquery for your request
 
 ### Exercise 5
 
-* When a user is selected from the drop down, only his comments should be showing
-* Pay attention to what is stored in the two databses, is there a connection between them?
-* Create the request call using '/comments/:username' and a dbhelper function to grab relevant comments from database
+* [x] When a user is selected from the drop down, only his comments should be showing
+* [x] Pay attention to what is stored in the two databses, is there a connection between them?
+* [x] Create the request call using '/comments/:username' and a dbhelper function to grab relevant comments from database
 
 
