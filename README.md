@@ -14,7 +14,7 @@ Fullstack review with mysql
 * [x] Tested it on postman to see what is happening
 
 ### Exercise 3
-* Create the server request calls in the index.js to grab data from the database
+* [x] Create the server request calls in the index.js to grab data from the database
 
 ### Exercise 4
 
