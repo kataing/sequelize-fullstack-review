@@ -1,5 +1,5 @@
-# Fullstack-MySQL
-Fullstack review with mysql
+# Fullstack-Sequelize
+Fullstack review with sequelize
 
 ### Exercise 1
 
