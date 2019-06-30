@@ -41,6 +41,9 @@ Comments
   .then(() => console.log('Able to connect to Comments Table'))
   .catch(err => console.error('Unable to connect to Comments Table', err));
 
+// Associate tables
+Users.hasMany(Comments);
+Comments.belongsTo(Users);
 
 module.exports = {
   Users,
